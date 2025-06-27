@@ -1,3 +1,4 @@
 ## Hi there 👋
 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlehdrjsg)](https://solved.ac/dlehdrjsg)
