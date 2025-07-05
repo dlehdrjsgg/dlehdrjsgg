@@ -5,7 +5,7 @@
 ### Explore More
 
 - [Site](https://beeef.kr)
-- [Blog](https://beeef.kr/blog)
+- [Blog](https://blog.beeef.kr)
 - [Resume](https://beeef.kr/resume)
 
 ### Social
