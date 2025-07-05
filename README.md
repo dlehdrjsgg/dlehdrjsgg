@@ -6,7 +6,7 @@
 
 - [Site](https://beeef.kr)
 - [Blog](https://blog.beeef.kr)
-- [Resume](https://beeef.kr/resume)
+- [Resume](https://beeef.kr)
 
 ### Social
 
